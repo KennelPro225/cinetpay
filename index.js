@@ -314,6 +314,8 @@ class Seamless {
         return xmlhttp;
     }
 }
-CinetPay = new Seamless();
+let CinetPay = new Seamless();
 
-export default CinetPay;
+module.exports = {
+    CinetPay
+}
