@@ -1,7 +1,8 @@
 {
   "name": "node-cinetpay",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "unofficial node module including the cinetpay api functions",
+  "keywords": ["cinetpay", "api"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

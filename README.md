@@ -1,7 +1,7 @@
 # **Unofficial** node module including the [cinetpay](https://cinetpay.com) api functions
-So the idea came to me when I was trying to use the [cinetpay](https://cinetpay.com) api in my vuejs application, I was not able to do so because Vuejs does not render divs with the src , and I tought it would be cool to have a node module that could be used in vuejs and any other javascript framework.
+So the idea came to me when I was trying to use the [cinetpay](https://cinetpay.com) api in a vuejs application, I was not able to do so because Vuejs does not render templates with the "script" tag, neither does React with it's components but the only way of accessing the api was by importing the sdk. I could have done it by many other ways, but I decided instead to create a node module based on the javascript sdk.
 ## DISCLAIMER
-This package is an unofficial node module that is not supported by CinetPay. I am not affiliated with CinetPay. However, I can guarantee that this package is safe and will not cause any harm to your application. I will make everyting I can to make sure that this package will becomne official and supported by cinetpay in the future, but I can not guarantee that it will be so.
+This package is unofficial and is not supported by CinetPay. I am not affiliated with CinetPay. However, I can guarantee that this package is safe and will not cause any harm to your application or your customers.
 ## INSTALLATION
 Install the package with npm:
 
