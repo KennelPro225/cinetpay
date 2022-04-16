@@ -4,7 +4,9 @@ So the idea came to me when I was trying to use the [cinetpay](https://cinetpay.
 This package is an unofficial node module that is not supported by CinetPay. I am not affiliated with CinetPay. However, I can guarantee that this package is safe and will not cause any harm to your application. I will make everyting I can to make sure that this package will becomne official and supported by cinetpay in the future, but I can not guarantee that it will be so.
 ## INSTALLATION
 Install the package with npm:
-```npm install node-cinetpay
+
+```bash
+npm install node-cinetpay
 ```
 ## USAGE
 Once installed, you can use the package like this:

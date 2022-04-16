@@ -1,6 +1,6 @@
 {
   "name": "node-cinetpay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "unofficial node module including the cinetpay api functions",
   "main": "index.js",
   "scripts": {
